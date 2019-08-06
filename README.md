@@ -1,4 +1,4 @@
-# Job_posting_data_processing_with_kafka_spark_cassandra
+# Job posting data processing with kafka spark cassandra
 ## Summerize
 This project was aimed to implemente an end-to-end job posting data processing platform with respect to the data-related job in different US cities on Indeed 
 ## step by step
